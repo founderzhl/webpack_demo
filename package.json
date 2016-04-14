@@ -1,0 +1,34 @@
+{
+  "name": "webpack_demo_20160414",
+  "version": "0.0.1",
+  "description": "webpack_study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/founderzhl/webpack_demo.git"
+  },
+  "author": "zhl小小张",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/founderzhl/webpack_demo/issues"
+  },
+  "homepage": "https://github.com/founderzhl/webpack_demo#readme",
+  "devDependencies": {
+    "plugins": "^0.4.2",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.9.0",
+    "jquery": "^1.12.0",
+    "less": "^2.6.0",
+    "less-loader": "^2.2.2",
+    "style-loader": "^0.13.0",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
